@@ -1,1 +1,7 @@
-# add the Artist class here
+
+
+# declare class Artist as a child from Active Record Class
+class Artist < ActiveRecord::Base
+
+end
+
